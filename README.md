@@ -29,3 +29,17 @@ A veces, una voz en nuestro interior nos dice: “Esto puede ser mejor” o incl
 En otras palabras, no debemos tender a buscar de manera prioritaria un resultado final perfecto. En su lugar, debemos apuntar a resolver temas puntuales de manera simple y concreta. Es como el dicho “Lo perfecto es enemigo de lo bueno”, y es muy similar al espíritu detrás de un MVP, para que se hagan una idea.
 
 ---
+
+## YAGNI / You aren't gonna need it
+
+> referencia: https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+
+Traducido como "No lo vas a necesitar", el principio YAGNI nos invita a evitar agregar funcionalidades hasta que estas sean realmente necesarias. Su filosofía se centra en mantener el sistema simple y enfocado en las necesidades actuales, en lugar de sobrecargarlo con características futuras que podrían no ser utilizadas.
+
+A menudo, un desarrollador puede sentir la necesidad de incluir algo adicional para cubrir un caso hipotético. Puede ser algo que se sabe que podría suceder o incluso que ocurrirá con certeza en el futuro. Sin embargo, el espíritu de este principio es respetar el alcance y el tiempo de la tarea actual, omitiendo esas necesidades futuras aunque no parezca intuitivo hacerlo.
+
+La ventaja de adherirse a este principio es que se obtienen códigos más atómicos y legibles. Esto repercute directamente en la mantenibilidad del sistema, ya que cada parte está diseñada con un propósito claro y definido. 
+
+YAGNI nos enseña a ser cautelosos y acotados en nuestro desarrollo, centrando nuestras energías en lo que es verdaderamente esencial en el momento presente.
+
+---
