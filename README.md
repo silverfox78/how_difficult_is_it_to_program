@@ -43,3 +43,18 @@ La ventaja de adherirse a este principio es que se obtienen códigos más atómi
 YAGNI nos enseña a ser cautelosos y acotados en nuestro desarrollo, centrando nuestras energías en lo que es verdaderamente esencial en el momento presente.
 
 ---
+
+## Pendientes
+
+- Separation of Concerns (Separación de Responsabilidades)
+- Keep it simple, stupid (KISS) (Mantenlo Simple, Estúpido)
+- Keep it DRY (DRY) (Manténlo No Repetitivo)
+- Avoid premature (Evita lo Prematuro)
+- Arrange, Act, Assert (Organizar, Actuar, Afirmar)
+- SOLID - Inversion de control (Inversión de Control)
+- Oh FRIC! (Fragility, Rigidity, Immobility, Complexity) (¡Oh FRIC! Fragilidad, Rigidez, Inmovilidad, Complejidad)
+- POLA — Principle of Least Astonishment (Principio de Menor Asombro)
+- The Boy Scout Rule (La Regla del Boy Scout)
+- Follow a Consistent Naming Convention
+- Structure Your Code Aesthetically
+- Write Good Comments — Take Your Time
