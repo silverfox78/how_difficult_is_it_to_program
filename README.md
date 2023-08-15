@@ -1,5 +1,7 @@
 # ¿Qué tan difícil es programar?
 
+> Replantamiento....
+
 En más de una ocasión, posiblemente hemos escuchado alguna frase que alude a lo complejo que puede resultar codificar algo. Es claro que este proceso conlleva varias facetas que hacen que esta labor sea compleja.
 
 En algunas ocasiones, simplemente entender un requisito ya es un desafío, o cumplir con los plazos impuestos para completar el desarrollo. Trabajar en equipo puede resultar complejo, al igual que mantener la tecnología al día, balancear la calidad versus la velocidad, y abordar temas como la seguridad. Y finalmente, aspectos como las pruebas, la deuda técnica, la documentación o el proceso de optimización son factores fundamentales en el desarrollo, pero son puntos que añaden complejidad a la labor de programar.
