@@ -1,6 +1,49 @@
 # ¿Qué tan difícil es programar?
 
-> Replantamiento....
+Muchas veces escuchamos frases que refieren a la complejidad de programar. Aunque la codificación puede ser desafiante, enfocarse solo en esta área sería caer en el **“Efecto del Martillo”**. 
+El desafío más grande al programar no es simplemente escribir código, sino asegurarse de que el producto resultante sea **Mantenible a largo plazo**.
+
+## Aspectos clave en la mantenibilidad
+
+### Mercado y Negocio
+Antes que nada, un producto de software responde a una necesidad del mercado. Debemos preguntarnos sobre las expectativas del usuario, cómo se posiciona la competencia y qué factores económicos pueden influir en su mantenibilidad.
+
+### Legalidad y Normativas
+No debemos asumir que todos los aspectos legales están considerados desde la creación del producto. Las regulaciones cambian, y es crucial asegurarnos de que nuestro software se mantenga al día con estas actualizaciones.
+
+### Cultura y Equipo
+La forma en que trabajamos, nuestra cultura organizativa y la mentalidad de nuestro equipo juegan un papel crucial en cómo abordamos la mantenibilidad.
+
+
+### Riesgos
+Hay que estar preparados para imprevistos y desafíos. No todos los riesgos necesitan la misma preparación, pero es esencial tener una estrategia clara.
+
+### Tecnología
+Más allá del lenguaje de programación, es fundamental considerar cómo gestionamos dependencias, la integración con otros sistemas, la seguridad y la escalabilidad.
+
+
+
+## Desafíos en contextos más amplios
+Los productos de software rara vez operan en aislamiento. Es probable que convivan con otros sistemas y aplicaciones. 
+
+La mantenibilidad no es solo sobre el producto individual, sino sobre cómo encaja en un ecosistema más amplio, especialmente si este ecosistema ya está establecido o está en proceso de migración.
+
+### Otros factores a tener en cuenta
+- Globalización del producto.
+- Soporte y operación durante incidentes.
+- Consideraciones éticas y sociales.
+- Dirección estratégica y visión organizacional.
+- Bienestar del equipo.
+- Calidad del código.
+
+---
+
+Programar no es simplemente escribir código. Es diseñar soluciones que se mantendrán relevantes, útiles y funcionales en el futuro. Considerar la mantenibilidad desde una perspectiva amplia es esencial para lograr este objetivo.
+
+
+-----
+
+> REVISAR para otro articulo...
 
 En más de una ocasión, posiblemente hemos escuchado alguna frase que alude a lo complejo que puede resultar codificar algo. Es claro que este proceso conlleva varias facetas que hacen que esta labor sea compleja.
 
