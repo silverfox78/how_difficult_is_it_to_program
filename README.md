@@ -1,5 +1,7 @@
 # ¿Qué tan difícil es programar?
 
+> Buscar una mejor opcion para hacerlo mas interante...
+
 Muchas veces escuchamos frases que refieren a la complejidad de programar. Aunque la codificación puede ser desafiante, enfocarse solo en esta área sería caer en el **“Efecto del Martillo”**. 
 El desafío más grande al programar no es simplemente escribir código, sino asegurarse de que el producto resultante sea **Mantenible a largo plazo**.
 
